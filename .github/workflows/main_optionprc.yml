@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'optionprc'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A222B328E6E84E5AB7134E7B1586ED3D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4517D22FCB884DFFACBB2749967498D8 }}
           package: .
